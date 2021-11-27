@@ -1,0 +1,69 @@
+</html>
+<head>
+
+<title>Hagay shinefeld </title>
+<link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+<h1 class="title"><u>I AM HAGAY SHINEFELD</u></h1>
+<p>
+<img src="whatsAppImage2021-11-17at23.59.30.jpeg"/>
+</p>
+<h1>
+	<u>ABOUT ME:</u>
+</h1>
+      <p style="color:blue";>
+<div>
+	<I>MY name is hagay shinefeld. I am 40 years old</i>
+	<br/>
+	<span>I was born on the 25 of august 1980 in barzili hospital in the city of ashkelon.</span>
+	<br/>
+</div>
+
+ I am married to livnat and we have two children and another one on the way.</I><div>I have three sisters , two are bigger than me and one younger than me.</div><div>we all merried and have childrens .</div></p>
+<p>
+	  <span id="hagay">We all live in israel</span><div><a href="https://en.wikipedia.org/wiki/Israel">link to israel</div><div></a><br><img src="https://cdn.pixabay.com/photo/2013/09/25/20/00/flag-186476_960_720.jpg"/></div>
+	  </p>
+<p>
+<div id="hagay">in the same city .<div>the city name is ashkelon.</div></div> <div><a href="https://en.wikipedia.org/wiki/Ashkelon">link to ashkelon</a></div>
+</p>
+
+<br> <img src="https://cdn.pixabay.com/photo/2021/01/29/17/53/sea-5961736_960_720.jpg"
+
+<div><h1><b><u>Occupation :</b></u></h1></div>
+  <p>
+  
+	  <div>Today i am working as Telephone banker in the first international bank of israel, i am working there almost three in half years .</div><div> before i was a manger of a shop to traveling equitment in ashkelon ,i work there 13 years.</div></p>
+	  <p>
+	 <div class="white">My childrens names are shira and noam .</div>  <div style="color:yellow";>Shira was born in 23 of may 2013 and now She is learning in the third grade in psagot school .</div>
+	 <div style="color:blue";>Noam was born in 22 of december 2015 and he is going to preschool garden .</div>
+	  </p> 
+</ul>
+<HR>
+<ul><h1><u>Photes of the childern:</u> </h1>
+  <p><li><b style="font-size:50px";>Shira</b></li></p>  	
+<p><img src="shira.jpg"/></p>
+<p> <li><b style="font-size:50px";>Noam</b></li></p>
+<p><img src="noam1.jpg"/></p>
+<img src="noam2.jpg"/>
+
+<h1><U STYLE="FONT-SIZE:50PX";>Hobbies that i like to do in my free time :</U></h1>
+ <ul id="hagay">
+    <li>spending time with my family</li>
+    <li>watch movies in the cinema</li>
+    <li>watch basketball games </li>
+    <li>go to gym</li>
+    <li>go to the beach</li>
+	<li>love to travel and hike </li>
+	<p>	
+</ul>
+<a href="gallery.html"><h1>PHOTES OF MY FAMILY </h1></a></p>
+
+<a href="contact.html"><h1>Contact Me </h1></a></p>
+
+</body>
+
+
+
+
+</html>

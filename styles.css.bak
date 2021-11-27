@@ -1,0 +1,41 @@
+img  {
+	width :300;
+	border:5px solid black;
+  border-radius: 25%;
+
+	
+}
+
+
+body  {
+	background-color: #2be3ff;
+	font-family: Ariel;
+	font-size: 20px;
+	weight: bold; letter-spacing: -1px; line-height: 1; text-align: center;
+	
+}
+
+H2 {
+	COLOR:green;
+	font-size:32px;
+	
+}
+
+
+.white {
+	COLOR:fuchsia;
+	font-size:32px;
+
+}
+
+#HAGAY {
+        color:black;
+	    font-size:32PX;
+    1
+
+}
+
+h1{
+		margin: 0 auto;
+		
+	}

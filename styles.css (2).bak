@@ -1,0 +1,26 @@
+img  {
+	width :300;
+	border:5px solid black;
+
+	
+}
+
+body  {
+	background-color: yellow;
+	font-family: Ariel;
+	font-size: 20px;
+	
+}
+
+H2 {
+	COLOR:green;
+	font-size:32px;
+	
+}
+
+
+.white {
+	COLOR:GrayText;
+	font-size:32px;
+
+}
